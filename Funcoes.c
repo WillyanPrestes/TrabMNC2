@@ -7,6 +7,7 @@ Autores:
     Darrye Roberto da Silva Mellin
     Willyan Pizarro Pretes
     Bernardo Betete da Silva Fonseca
+    Diego Figueiredo Eburneo
     */
 
 void iniciaTabela(int numeroPontos,double tabela[numeroPontos][numeroPontos]){
